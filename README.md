@@ -5,5 +5,5 @@
 
 调用方法：
 ```URL
-https://cdn.jsdelivr.net/gh/Dayanshifu/imagebed@main/img/图片名
+https://fastly.jsdelivr.net/gh/Dayanshifu/imagebed@main/img/图片名
 ```
